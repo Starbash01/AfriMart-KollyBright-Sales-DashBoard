@@ -3,6 +3,11 @@ Interactive Excel Sales Performance Dashboard analyzing revenue, profit, and uni
 
 ## Excel DataSet
 
+- <a href="https://github.com/Starbash01/AfriMart-KollyBright-Sales-DashBoard/blob/main/AfriMart_Sales_Dataset.xlsx"> Feel free to download, explore and interact with this project. You're welcome to use it as a reference, adapt it to your own dataset, and experiment with different analyses or visualizations. I hope it provides useful insights and serves as a helpful resource for your own learning and projects.
+
+If you find this project valuable, consider giving it a ⭐ and sharing your feedback or suggestions. Your support and contributions are always appreciated!
+ </a>
+
 ### KPI Questions
 1. What is the total revenue generated?
 2. What is the total profit?
@@ -65,8 +70,11 @@ The Excel Sales Performance Dashboard transformed raw sales data into an interac
 
 ## DashBoard Interaction
 
+- <a href="https://github.com/Starbash01/AfriMart-KollyBright-Sales-DashBoard/blob/main/AfriMart.jpg> View DashBoard </a>
 
 ## DashBoard
+
+<img <img width="1602" height="741" alt="AfriMart" src="https://github.com/user-attachments/assets/c1a31569-0491-4314-b514-139a3107426d" />
 
 
 ### Key Insights
