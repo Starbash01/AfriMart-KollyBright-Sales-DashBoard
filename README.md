@@ -69,7 +69,7 @@ The Excel Sales Performance Dashboard transformed raw sales data into an interac
 ## DashBoard
 
 
-### Key Insights from the Employee Resignation Dashboard
+### Key Insights
 1. Revenue Performance: The dashboard identifies the countries contributing the highest revenue and highlights differences in sales performance across markets.
 2. Product Profitability: Profit varies across products, allowing management to identify products generating the greatest contribution to overall profitability.
 3. Unit Sales: Analysis of units sold reveals the products with the strongest and weakest sales volumes.
