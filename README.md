@@ -74,7 +74,7 @@ The Excel Sales Performance Dashboard transformed raw sales data into an interac
 
 ## DashBoard
 
-<img <img width="1602" height="741" alt="AfriMart" src="https://github.com/user-attachments/assets/c1a31569-0491-4314-b514-139a3107426d" />
+<img width="1602" height="741" alt="AfriMart" src="https://github.com/user-attachments/assets/c1a31569-0491-4314-b514-139a3107426d" />
 
 
 ### Key Insights
