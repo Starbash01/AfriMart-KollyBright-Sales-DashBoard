@@ -70,7 +70,7 @@ The Excel Sales Performance Dashboard transformed raw sales data into an interac
 
 ## DashBoard Interaction
 
-- <a href="https://github.com/Starbash01/AfriMart-KollyBright-Sales-DashBoard/blob/main/AfriMart.jpg> View DashBoard </a>
+- <a href="https://github.com/Starbash01/AfriMart-KollyBright-Sales-DashBoard/blob/main/AfriMart.jpg"> View DashBoard </a>
 
 ## DashBoard
 
